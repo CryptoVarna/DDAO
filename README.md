@@ -1,7 +1,7 @@
-# Democratic Distributed Autonomous Organization
+# Democratic Decentralized Autonomous Organization
 
 ## Abstract
-The idea is to define a hackerspace as a Distributed Autonomous Organization, what it actually is, using smart contracts. Its main activities – budgeting, membership and voting will be guaranteed by the blockchain. Cryptocurrency will be used for internal expenses, project funding and sponsorship.
+The idea is to define a hackerspace as a Decentralized Autonomous Organization, what it actually is, using smart contracts. Its main activities – budgeting, membership and voting will be guaranteed by the blockchain. Cryptocurrency will be used for internal expenses, project funding and sponsorship.
 The model will be suggested to all hackerspaces around the world and in a case of successful adoption hackerspace community could be united and a global hacker’s cryptocurrency will be used for common tasks.
 
 ## Project Description
