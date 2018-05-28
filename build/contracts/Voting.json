@@ -1,0 +1,174 @@
+{
+  "contractName": "Voting",
+  "abi": [
+    {
+      "inputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3006080604052600080fd00a165627a7a72305820307a2168eea8dce4f9520c97182d70919f1e6236430e001baac5b03ef49554760029",
+  "deployedBytecode": "0x6080604052600080fd00a165627a7a72305820307a2168eea8dce4f9520c97182d70919f1e6236430e001baac5b03ef49554760029",
+  "sourceMap": "81:74:3:-;;;106:46;8:9:-1;5:2;;;30:1;27;20:12;5:2;106:46:3;81:74;;;;;;",
+  "deployedSourceMap": "81:74:3:-;;;;;",
+  "source": "pragma solidity ^0.4.23;\r\n\r\n/**\r\n * @title Voting\r\n * @dev DDAO Voting\r\n *\r\n */\r\ncontract Voting {\r\n\r\n    constructor() public {\r\n        // pass\r\n    }\r\n}",
+  "sourcePath": "D:\\Projects\\ethereum\\DDAO\\contracts\\Voting.sol",
+  "ast": {
+    "absolutePath": "/D/Projects/ethereum/DDAO/contracts/Voting.sol",
+    "exportedSymbols": {
+      "Voting": [
+        77
+      ]
+    },
+    "id": 78,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 72,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".23"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:3"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": "@title Voting\r\n@dev DDAO Voting\r\n\n ",
+        "fullyImplemented": true,
+        "id": 77,
+        "linearizedBaseContracts": [
+          77
+        ],
+        "name": "Voting",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "body": {
+              "id": 75,
+              "nodeType": "Block",
+              "src": "127:25:3",
+              "statements": []
+            },
+            "documentation": null,
+            "id": 76,
+            "implemented": true,
+            "isConstructor": true,
+            "isDeclaredConst": false,
+            "modifiers": [],
+            "name": "",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 73,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "117:2:3"
+            },
+            "payable": false,
+            "returnParameters": {
+              "id": 74,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "127:0:3"
+            },
+            "scope": 77,
+            "src": "106:46:3",
+            "stateMutability": "nonpayable",
+            "superFunction": null,
+            "visibility": "public"
+          }
+        ],
+        "scope": 78,
+        "src": "81:74:3"
+      }
+    ],
+    "src": "0:155:3"
+  },
+  "legacyAST": {
+    "absolutePath": "/D/Projects/ethereum/DDAO/contracts/Voting.sol",
+    "exportedSymbols": {
+      "Voting": [
+        77
+      ]
+    },
+    "id": 78,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 72,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".23"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:3"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": "@title Voting\r\n@dev DDAO Voting\r\n\n ",
+        "fullyImplemented": true,
+        "id": 77,
+        "linearizedBaseContracts": [
+          77
+        ],
+        "name": "Voting",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "body": {
+              "id": 75,
+              "nodeType": "Block",
+              "src": "127:25:3",
+              "statements": []
+            },
+            "documentation": null,
+            "id": 76,
+            "implemented": true,
+            "isConstructor": true,
+            "isDeclaredConst": false,
+            "modifiers": [],
+            "name": "",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 73,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "117:2:3"
+            },
+            "payable": false,
+            "returnParameters": {
+              "id": 74,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "127:0:3"
+            },
+            "scope": 77,
+            "src": "106:46:3",
+            "stateMutability": "nonpayable",
+            "superFunction": null,
+            "visibility": "public"
+          }
+        ],
+        "scope": 78,
+        "src": "81:74:3"
+      }
+    ],
+    "src": "0:155:3"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.4.24+commit.e67f0147.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "2.0.0",
+  "updatedAt": "2018-05-28T19:18:59.325Z"
+}

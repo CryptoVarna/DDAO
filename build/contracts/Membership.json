@@ -1,0 +1,174 @@
+{
+  "contractName": "Membership",
+  "abi": [
+    {
+      "inputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3006080604052600080fd00a165627a7a7230582095d0a7ea81b3a83499573a0e7635540706a6b07ffc9bcec07d66e8a5661d33530029",
+  "deployedBytecode": "0x6080604052600080fd00a165627a7a7230582095d0a7ea81b3a83499573a0e7635540706a6b07ffc9bcec07d66e8a5661d33530029",
+  "sourceMap": "89:78:1:-;;;118:46;8:9:-1;5:2;;;30:1;27;20:12;5:2;118:46:1;89:78;;;;;;",
+  "deployedSourceMap": "89:78:1:-;;;;;",
+  "source": "pragma solidity ^0.4.23;\r\n\r\n/**\r\n * @title Membership\r\n * @dev DDAO Membership\r\n *\r\n */\r\ncontract Membership {\r\n\r\n    constructor() public {\r\n        // pass\r\n    }\r\n}",
+  "sourcePath": "D:\\Projects\\ethereum\\DDAO\\contracts\\Membership.sol",
+  "ast": {
+    "absolutePath": "/D/Projects/ethereum/DDAO/contracts/Membership.sol",
+    "exportedSymbols": {
+      "Membership": [
+        13
+      ]
+    },
+    "id": 14,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 8,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".23"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": "@title Membership\r\n@dev DDAO Membership\r\n\n ",
+        "fullyImplemented": true,
+        "id": 13,
+        "linearizedBaseContracts": [
+          13
+        ],
+        "name": "Membership",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "body": {
+              "id": 11,
+              "nodeType": "Block",
+              "src": "139:25:1",
+              "statements": []
+            },
+            "documentation": null,
+            "id": 12,
+            "implemented": true,
+            "isConstructor": true,
+            "isDeclaredConst": false,
+            "modifiers": [],
+            "name": "",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 9,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "129:2:1"
+            },
+            "payable": false,
+            "returnParameters": {
+              "id": 10,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "139:0:1"
+            },
+            "scope": 13,
+            "src": "118:46:1",
+            "stateMutability": "nonpayable",
+            "superFunction": null,
+            "visibility": "public"
+          }
+        ],
+        "scope": 14,
+        "src": "89:78:1"
+      }
+    ],
+    "src": "0:167:1"
+  },
+  "legacyAST": {
+    "absolutePath": "/D/Projects/ethereum/DDAO/contracts/Membership.sol",
+    "exportedSymbols": {
+      "Membership": [
+        13
+      ]
+    },
+    "id": 14,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 8,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".23"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": "@title Membership\r\n@dev DDAO Membership\r\n\n ",
+        "fullyImplemented": true,
+        "id": 13,
+        "linearizedBaseContracts": [
+          13
+        ],
+        "name": "Membership",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "body": {
+              "id": 11,
+              "nodeType": "Block",
+              "src": "139:25:1",
+              "statements": []
+            },
+            "documentation": null,
+            "id": 12,
+            "implemented": true,
+            "isConstructor": true,
+            "isDeclaredConst": false,
+            "modifiers": [],
+            "name": "",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 9,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "129:2:1"
+            },
+            "payable": false,
+            "returnParameters": {
+              "id": 10,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "139:0:1"
+            },
+            "scope": 13,
+            "src": "118:46:1",
+            "stateMutability": "nonpayable",
+            "superFunction": null,
+            "visibility": "public"
+          }
+        ],
+        "scope": 14,
+        "src": "89:78:1"
+      }
+    ],
+    "src": "0:167:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.4.24+commit.e67f0147.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "2.0.0",
+  "updatedAt": "2018-05-28T19:18:59.325Z"
+}

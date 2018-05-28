@@ -1,0 +1,25 @@
+{
+  "name": "ddao",
+  "version": "1.0.0",
+  "description": "Democratic Decentralized Autonomous Organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CryptoVarna/DDAO.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "dao",
+    "solidity"
+  ],
+  "author": "Galin Dinkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CryptoVarna/DDAO/issues"
+  },
+  "homepage": "https://github.com/CryptoVarna/DDAO#readme"
+}
